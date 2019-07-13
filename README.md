@@ -15,6 +15,10 @@ Pelatihan Bootcamp Arkademy
     ● Validasi field password dengan format: Kombinasi dari huruf kecil, huruf besar minimal satu karakter, angka minimal satu 
       karakter dan karakter spesial minimal satu karakter dan harus memiliki karakter simbol '@'  dan panjang minimal 8 karakter.
 
-3.  Function/Method untuk menghitung frasa menggunakan PHP
+3.  Function/method untuk menghitung frasa menggunakan PHP
 
-    Fungsi/method yang dapat menghitung jumlah frasa pada sebuah string menggunakan PHP.
+    Function/method yang dapat menghitung jumlah frasa pada sebuah string menggunakan PHP.
+    
+4.  Function/method untuk membeli telur menggunakan PHP
+
+    Function/method untuk menghitung jumlah telur yang didapatkan setelah menginputkan 2 parameter yaitu tanggal dan jumlah uang 
