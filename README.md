@@ -10,5 +10,5 @@ JSON berguna sebagai format data yang digunakan untuk bertukar data client atau 
 * Validasi field username dengan format: Kombinasi dari huruf kecil, huruf besar dan angka dengan panjang 5-9 karakter. Username tidak boleh diawali dengan angka / karakter special *<br>
 * Validasi field password dengan format: Kombinasi dari huruf kecil, huruf besar minimal satu karakter, angka minimal satu karakter, dan karakter spesial minimal satu karakter dan harus memiliki karakter simbol ‘@’  dan panjang minimal 8 karakter *
 <br> 
-**3. Function mencari jumlah frasa menggunakan PHP**<br>
+**3. Function mencari jumlah frasa menggunakan PHP **<br>
 Mencari jumlah frasa pada sebuah string menggunakan PHP.
