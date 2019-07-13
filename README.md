@@ -9,4 +9,4 @@ JSON berguna sebagai format data yang digunakan untuk bertukar data client atau 
 **2. Function validasi field dengan REGEX menggunakan PHP**
 <br>
 <br>
-**3. Function **
+**3. Function**
