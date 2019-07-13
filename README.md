@@ -26,3 +26,33 @@ Pelatihan Bootcamp Arkademy
 5.  Membuat segitiga siku-siku dengan C
 
     Membuat segitiga siku siku berupa panjang alas dan tinggi segitiga diinput user serta segitiga dibentuk dengan deret angka prima
+
+## Project Aplikasi Data Work & Salary menggunakan PHP dan AJAX
+
+Tampilan Home
+
+![home](https://user-images.githubusercontent.com/44598352/61171462-11987580-a5a2-11e9-8800-817de60909b6.png)
+
+Add data
+
+![add data](https://user-images.githubusercontent.com/44598352/61171466-12c9a280-a5a2-11e9-8f36-28e68400ec0e.png)
+
+Success added data
+
+![success add data](https://user-images.githubusercontent.com/44598352/61171463-11987580-a5a2-11e9-913f-3f1f7ecff8f0.png)
+
+Edit data
+
+![edit data](https://user-images.githubusercontent.com/44598352/61171468-13623900-a5a2-11e9-8ef1-4ebf12cb10a2.png)
+
+Success edited data
+
+![success edit data](https://user-images.githubusercontent.com/44598352/61171465-12310c00-a5a2-11e9-9d35-eff83d40ca63.png)
+
+Delete confirmation
+
+![confirmation delete](https://user-images.githubusercontent.com/44598352/61171467-13623900-a5a2-11e9-83cc-d8e714e26163.png)
+
+Success deleted data
+
+![success delete](https://user-images.githubusercontent.com/44598352/61171464-12310c00-a5a2-11e9-8f1b-a0379641e36c.png)
