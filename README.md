@@ -26,6 +26,11 @@ Pelatihan Bootcamp Arkademy
 5.  Membuat segitiga siku-siku dengan C
 
     Membuat segitiga siku siku berupa panjang alas dan tinggi segitiga diinput user serta segitiga dibentuk dengan deret angka prima
+    
+6. Function/method untuk menemukan nilai hasil dari operasi aritmatika yang telah diinput menggunakan PHP
+    
+   Function/method untuk menemukan nilai hasil dari operasi aritmatika seperti pertambahan, perkalian, pengurangan dan pembagian 
+   yang telah diinput menggunakan 3 parameter yaitu jenis operator aritmatika('SUM','MUL','SUB','DIV'),nilai maksimal, dan digit array
 
 ## Project Aplikasi Data Work & Salary menggunakan PHP dan AJAX
 
