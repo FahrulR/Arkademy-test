@@ -22,3 +22,7 @@ Pelatihan Bootcamp Arkademy
 4.  Function/method untuk membeli telur menggunakan PHP
 
     Function/method untuk menghitung jumlah telur yang didapatkan setelah menginputkan 2 parameter yaitu tanggal dan jumlah uang 
+    
+5.  Membuat segitiga siku-siku dengan C
+
+    Membuat segitiga siku siku berupa panjang alas dan tinggi segitiga diinput user serta segitiga dibentuk dengan deret angka prima
